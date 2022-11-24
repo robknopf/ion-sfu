@@ -1,4 +1,4 @@
-module github.com/pion/ion-sfu
+module github.com/robknopf/ion-sfu
 
 go 1.13
 
