@@ -23,7 +23,7 @@ subscriber.ondatachannel = (e: RTCDataChannelEvent) => {
 }
 ```
 
-Audio level indication can be tuned [here in the configuration file](https://github.com/pion/ion-sfu/blob/master/config.toml#L15-L28).
+Audio level indication can be tuned [here in the configuration file](https://github.com/robknopf/ion-sfu/blob/master/config.toml#L15-L28).
 
 ### Can I record the audio and/or video to disk?
 
